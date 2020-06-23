@@ -29,6 +29,10 @@
   },
   "author": "Suprim Golay",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suprim12/mero-ui"
+  },
   "peerDependencies": {
     "react": "^16.13.1",
     "styled-components": "^5.1.1"
